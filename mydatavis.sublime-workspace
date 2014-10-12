@@ -1,0 +1,727 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"colum",
+				"column"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"he",
+				"height-margin"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"c",
+				"columns"
+			],
+			[
+				"st",
+				"stdout"
+			],
+			[
+				"pro",
+				"process"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"model",
+				"modelOBJ"
+			],
+			[
+				"x",
+				"xspeed"
+			],
+			[
+				"prom",
+				"promise"
+			],
+			[
+				"de",
+				"def2"
+			],
+			[
+				"res",
+				"resolePromises"
+			],
+			[
+				"ar",
+				"argument1"
+			],
+			[
+				"pr",
+				"pr1"
+			],
+			[
+				"re",
+				"results"
+			],
+			[
+				"han",
+				"handle"
+			],
+			[
+				"promi",
+				"promise2"
+			],
+			[
+				"handle",
+				"handleErr"
+			],
+			[
+				"p",
+				"promise1"
+			],
+			[
+				"promise",
+				"promiseTwo"
+			],
+			[
+				"th",
+				"throwMyGod"
+			],
+			[
+				"i",
+				"iterate"
+			],
+			[
+				"the",
+				"theJSON"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"na",
+				"nativelanguages"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"get",
+				"getCurrentUser"
+			],
+			[
+				"cou",
+				"country_string"
+			],
+			[
+				"W",
+				"WOE_IDS"
+			],
+			[
+				"t",
+				"twitter_api"
+			],
+			[
+				"C",
+				"CONSUMER_KEY"
+			],
+			[
+				"tw",
+				"twitter"
+			],
+			[
+				"twi",
+				"twitter_api"
+			],
+			[
+				"Oa",
+				"OAUTH_TOKEN_SECRET"
+			],
+			[
+				"O",
+				"OAUTH_TOKEN"
+			],
+			[
+				"upl",
+				"uploaddir"
+			],
+			[
+				"uo",
+				"uploadfile"
+			],
+			[
+				"is",
+				"is_numeric"
+			],
+			[
+				"s",
+				"sum"
+			],
+			[
+				"func",
+				"func_get_args"
+			],
+			[
+				"nu",
+				"numa"
+			],
+			[
+				"req",
+				"req1	require_once …"
+			],
+			[
+				"cal",
+				"calculator"
+			],
+			[
+				"f",
+				"fun	function …"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "myboxplot.js",
+			"settings":
+			{
+				"buffer_size": 2575,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 905,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"oack",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/datavis/myvis.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/datavis/box.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/datavis/SixNations.csv",
+		"/Applications/XAMPP/xamppfiles/htdocs/datavis/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/datavis/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/datavis/USGunManufacturing1986-2010-Wide.csv",
+		"/Applications/XAMPP/xamppfiles/htdocs/datavis/d3.js",
+		"/Users/keoghpe/Documents/Sites/nodeschool/program.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/WebApplicationArchitectures/MVC2/templates/template_home_page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WebApplicationArchitectures/MVC2/app/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/WebApplicationArchitectures/MVC2/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WebApplicationArchitectures/MVC2/controllers/controller_personal_intro.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WebApplicationArchitectures/MVC2/templates/template_publications.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WebApplicationArchitectures/MVC2/views/view_publications.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WebApplicationArchitectures/MVC2/models/model_publications.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WebApplicationArchitectures/MVC2/templates/footer_file.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WebApplicationArchitectures/MVC2/templates/header_file.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WebApplicationArchitectures/MVC2/models/model_personal_intro.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WebApplicationArchitectures/MVC2/templates/template_personal_intro.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WebApplicationArchitectures/MVC2/models/model.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WebApplicationArchitectures/MVC2/views/view_home_page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WebApplicationArchitectures/MVC2/templates/template.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WebApplicationArchitectures/MVC2/views/view_personal_intro.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WebApplicationArchitectures/MVC2/models/model_home_page.php",
+		"/Users/keoghpe/Desktop/mydownloadscript",
+		"/Applications/XAMPP/xamppfiles/htdocs/Recordmp3js/js/libmp3lame.min.js",
+		"/Users/keoghpe/Documents/Sites/nodeschool/promiseitwonthurt/fullfill_a_promise.js",
+		"/Users/keoghpe/Documents/Sites/nodeschool/promiseitwonthurt/throw_an_error.js",
+		"/Users/keoghpe/Documents/Sites/nodeschool/promiseitwonthurt/values_and_promises.js",
+		"/Users/keoghpe/Documents/Sites/nodeschool/promiseitwonthurt/always_async.js",
+		"/Users/keoghpe/Documents/Sites/nodeschool/promiseitwonthurt/to_reject_or_not_to_reject.js",
+		"/Users/keoghpe/Documents/Sites/nodeschool/promiseitwonthurt/reject_a_promise.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Recordmp3js/js/mp3Worker.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Recordmp3js/js/jquery-1.11.0.min.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Recordmp3js/upload.php",
+		"/Users/keoghpe/Documents/Sites/cameloso/client/app/record/record.controller.spec.js",
+		"/Users/keoghpe/Documents/Sites/cameloso/server/api/user/user.model.spec.js",
+		"/Users/keoghpe/Documents/Sites/cameloso/server/api/thing/thing.model.js",
+		"/Users/keoghpe/Documents/Sites/cameloso/client/app/account/signup/signup.controller.js",
+		"/Users/keoghpe/Documents/Sites/cameloso/client/app/account/login/login.less",
+		"/Users/keoghpe/Documents/Sites/cameloso/client/app/main/main.controller.js",
+		"/Users/keoghpe/Documents/Sites/cameloso/client/app/main/main.less",
+		"/Users/keoghpe/Documents/Sites/thesis-suggestions/client/app/viewSuggestion/viewSuggestion.controller.js",
+		"/Users/keoghpe/Documents/Sites/thesis-suggestions/client/app/main/main.html",
+		"/Users/keoghpe/Documents/Sites/thesis-suggestions/client/app/main/main.controller.js",
+		"/Users/keoghpe/Documents/Sites/thesis-suggestions/client/app/main/main.js",
+		"/Users/keoghpe/Documents/Sites/thesis-suggestions/client/app/admin/admin.controller.js",
+		"/Users/keoghpe/Documents/Sites/cameloso/client/components/navbar/navbar.controller.js",
+		"/Users/keoghpe/Documents/Sites/cameloso/server/api/thing/thing.controller.js",
+		"/Users/keoghpe/Documents/Sites/cameloso/server/api/thing/index.js",
+		"/Users/keoghpe/Documents/Sites/cameloso/server/api/thing/thing.spec.js",
+		"/Users/keoghpe/Documents/Sites/cameloso/client/components/navbar/navbar.html",
+		"/Users/keoghpe/Documents/College/Research Methods/my_thesis_shell/Chapters/Chapter6.tex",
+		"/Users/keoghpe/Documents/College/Research Methods/my_thesis_shell/Chapters/Chapter3.tex",
+		"/Users/keoghpe/Documents/College/Research Methods/my_thesis_shell/Chapters/Chapter4.tex",
+		"/Users/keoghpe/Documents/College/Research Methods/my_thesis_shell/Chapters/Chapter5.tex",
+		"/Users/keoghpe/Documents/College/Research Methods/my_thesis_shell/Chapters/Chapter1.tex",
+		"/Users/keoghpe/Documents/College/Research Methods/my_thesis_shell/Chapters/Chapter2.tex",
+		"/Users/keoghpe/Documents/Sites/pydatamessing/usa_data.json",
+		"/Users/keoghpe/Documents/Sites/pydatamessing/uk_data.json",
+		"/Users/keoghpe/Documents/Sites/pydatamessing/ireland_data.json",
+		"/Users/keoghpe/Documents/Sites/pydatamessing/world_data.json",
+		"/Users/keoghpe/Documents/Sites/pydatamessing/pull_twitter.py",
+		"/Users/keoghpe/Documents/Sites/pydatamessing/IRELAND_WOE_ID_data.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/uploader/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/uploader/files/tdd.pdf",
+		"/Applications/XAMPP/xamppfiles/etc/php.ini",
+		"/Applications/XAMPP/xamppfiles/properties.ini"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"foo",
+			")\n",
+			"foo",
+			"i",
+			"column",
+			"Firearms",
+			"lineD",
+			".x",
+			"rows",
+			"&",
+			"?blogPost",
+			"&<?",
+			"0",
+			"The HomePage of Pete",
+			"description",
+			"		'title' => \"Home\",",
+			"publications",
+			"'template' => \"publications\",",
+			"publications",
+			"personal_intro",
+			"'motto' => \"Live fast die young!\",",
+			"personal_intro",
+			"motto",
+			"home",
+			"h",
+			"x",
+			"myCanvas",
+			"promise2",
+			"require",
+			"(",
+			"Lame",
+			"lame",
+			"$",
+			"video",
+			"add",
+			"h2",
+			"x-bdsk://",
+			"DEPARTMENT OR SCHOOL NAME (IN BLOCK CAPITALS)",
+			"Department or School Name",
+			"University Name",
+			"univname",
+			"p>",
+			"/\">",
+			"country",
+			")",
+			"add"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "myboxplot.js",
+					"settings":
+					{
+						"buffer_size": 2575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								553,
+								553
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 1.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 905,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								416,
+								416
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 121.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/XAMPP/xamppfiles/htdocs/datavis/index.html"
+			],
+			[
+				"html",
+				"/Applications/XAMPP/xamppfiles/htdocs/datavis/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 155.0,
+	"status_bar_visible": true
+}

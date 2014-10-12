@@ -1,0 +1,115 @@
+html{
+	height: 100%;
+}
+body {
+	height: 100%;
+  	font: 0.7em "Helvetica Neue", Helvetica, Arial, sans-serif;
+/*  	background-color: black;*/
+}
+
+#foo{
+	height: 100%;
+	width: 100%;
+}
+
+#chart{
+	height:100%;
+	width: 100%;
+}
+
+h1{
+	text-align: center;
+}
+circle{
+	opacity: 0.5;
+}
+circle:hover{
+	opacity: 1;
+}
+
+.axis path{
+	fill:none;
+	stroke: black;
+}
+.axis {
+	font-size:1em;
+	font-family:sans-serif;
+}
+.tick{
+	fill:none;
+	stroke:black;
+}
+circle{
+	stroke:black;
+	stroke-width:0.5px;
+}
+circle{
+	fill:black;
+}
+circle.Firearms{
+	fill:MediumSeaGreen;
+}
+circle.Pistols{
+	fill:DeepPink;
+}
+circle.Revolvers{
+	fill:red;
+}
+circle.Rifles{
+	fill:green;
+}
+circle.Shotguns{
+	fill:yellow;
+}
+circle.Misc{
+	fill:brown;
+}
+
+.box {
+  font: 10px sans-serif;
+}
+
+.box line,
+.box rect,
+.box circle {
+  fill: #fff;
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+
+#Firearms rect{
+	fill: rgba(255,0,0,.1);
+}
+
+#Firearms rect:hover{
+	fill: rgba(255,0,0,.9);
+}
+
+#Pistols rect{
+	fill: blue;
+}
+
+#Revolvers rect{
+	fill: green;
+}
+
+#Rifles rect{
+	fill: yellow;
+}
+
+#Shotguns rect{
+	fill: teal;
+}
+
+.box .center {
+  stroke-dasharray: 3,3;
+}
+
+.box .outlier {
+  fill: none;
+  stroke: #ccc;
+}
+
+text{
+	/*stroke:white;*/
+}
